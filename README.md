@@ -1,2 +1,0 @@
-# JC
-joycmn's repository
